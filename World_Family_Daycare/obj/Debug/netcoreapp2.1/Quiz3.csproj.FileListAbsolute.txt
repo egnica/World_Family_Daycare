@@ -1,0 +1,11 @@
+C:\Users\egnnica\Desktop\Quiz3\bin\Debug\netcoreapp2.1\Quiz3.deps.json
+C:\Users\egnnica\Desktop\Quiz3\bin\Debug\netcoreapp2.1\Quiz3.runtimeconfig.json
+C:\Users\egnnica\Desktop\Quiz3\bin\Debug\netcoreapp2.1\Quiz3.runtimeconfig.dev.json
+C:\Users\egnnica\Desktop\Quiz3\bin\Debug\netcoreapp2.1\Quiz3.dll
+C:\Users\egnnica\Desktop\Quiz3\bin\Debug\netcoreapp2.1\Quiz3.pdb
+C:\Users\egnnica\Desktop\Quiz3\obj\Debug\netcoreapp2.1\Quiz3.csprojAssemblyReference.cache
+C:\Users\egnnica\Desktop\Quiz3\obj\Debug\netcoreapp2.1\Quiz3.csproj.CoreCompileInputs.cache
+C:\Users\egnnica\Desktop\Quiz3\obj\Debug\netcoreapp2.1\Quiz3.AssemblyInfoInputs.cache
+C:\Users\egnnica\Desktop\Quiz3\obj\Debug\netcoreapp2.1\Quiz3.AssemblyInfo.cs
+C:\Users\egnnica\Desktop\Quiz3\obj\Debug\netcoreapp2.1\Quiz3.dll
+C:\Users\egnnica\Desktop\Quiz3\obj\Debug\netcoreapp2.1\Quiz3.pdb
